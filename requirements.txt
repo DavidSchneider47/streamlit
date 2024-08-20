@@ -6,3 +6,4 @@ streamlit-folium
 requests
 shapely
 streamlit-leaflet
+leafmap

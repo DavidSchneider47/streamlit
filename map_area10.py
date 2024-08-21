@@ -15,7 +15,7 @@ from streamlit_folium import st_folium
 st.set_page_config(layout="wide", page_title="Transit Guides", page_icon=":bus:")
 
 # Set the title of the Streamlit app
-st.title("Transit General Urban Information and Destination Explorer (GUIDE) Prototype")
+st.title("Transit General Urban Information and Destination Explorer (TransitGUIDE) Prototype")
 
 # Add the description text below the title
 st.markdown("""

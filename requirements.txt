@@ -1,8 +1,6 @@
-streamlit
-pandas
-geopandas
-folium
-streamlit-folium
-requests
-shapely
-leafmap
+streamlit 
+pandas 
+geopandas 
+requests 
+shapely 
+leafmap 

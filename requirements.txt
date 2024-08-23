@@ -3,4 +3,4 @@ pandas
 geopandas 
 requests 
 shapely 
-leafmap==0.11.0
+leafmap==0.36.9
